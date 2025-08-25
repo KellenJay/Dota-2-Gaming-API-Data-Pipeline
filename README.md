@@ -12,18 +12,18 @@ This project builds a complete data pipeline using Python and the OpenDota API t
 
 ## What’s Been Done
 
-- ✔️ 12,000+ player-level records pulled across 1,100+ matches
-- ✔️ Live match data and hero usage tracking
-- ✔️ Rankings and distributions normalized for tier analysis
-- ✔️ Constants data (heroes, items, game modes, regions) fetched for joins
-- ✔️ EDA, validation, and profiling completed
+- 12,000+ player-level records pulled across 1,100+ matches
+- Live match data and hero usage tracking
+- Rankings and distributions normalized for tier analysis
+- Constants data (heroes, items, game modes, regions) fetched for joins
+- EDA, validation, and profiling completed
 
 ## Next Steps
 
-- [ ] Modularize ETL pipeline (`extract.py`, `transform.py`, `load.py`)
-- [ ] Define star schema and load into SQL database
-- [ ] Add scheduler (e.g., Airflow) for automation
-- [ ] Deploy BI dashboard for visual insights
+- Modularize ETL pipeline (`extract.py`, `transform.py`, `load.py`)
+- Define star schema and load into SQL database
+- Add scheduler (e.g., Airflow) for automation
+- Deploy BI dashboard for visual insights
 
 ## Sample Datasets
 
