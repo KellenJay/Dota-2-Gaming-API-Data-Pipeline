@@ -1,5 +1,5 @@
 
-# Dota 2 OpenDota API Data Pipeline
+# Real-Time Game Telemetry ETL: Dota 2 Analytics Pipeline
 
 This project builds a complete data pipeline using Python and the OpenDota API to extract, transform, and analyze player and match data from Dota 2.
 
